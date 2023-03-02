@@ -1,3 +1,15 @@
+# v3.0.7 (Thu Mar 02 2023)
+
+#### 🐛 Bug Fix
+
+- prebundle got again because of ESM use [#3](https://github.com/ndelangen/download-tarball/pull/3) ([@ndelangen](https://github.com/ndelangen))
+
+#### Authors: 1
+
+- Norbert de Langen ([@ndelangen](https://github.com/ndelangen))
+
+---
+
 # v3.0.6 (Thu Mar 02 2023)
 
 #### 🐛 Bug Fix
