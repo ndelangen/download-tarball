@@ -70,9 +70,9 @@ npm test
 
 ## Dependencies
 
-- [gunzip-maybe](https://ghub.io/gunzip-maybe](https://github.com/mafintosh/gunzip-maybe): Transform stream that gunzips its input if it is gzipped and just echoes it if not
-- [pump](https://ghub.io/pump](https://github.com/mafintosh/pump): pipe streams together and close all of them if one of them closes
-- [tar-fs](https://ghub.io/tar-fs](https://github.com/mafintosh/tar-fs): filesystem bindings for tar-stream
+- [gunzip-maybe](https://github.com/mafintosh/gunzip-maybe): Transform stream that gunzips its input if it is gzipped and just echoes it if not
+- [pump](https://github.com/mafintosh/pump): pipe streams together and close all of them if one of them closes
+- [tar-fs](https://github.com/mafintosh/tar-fs): filesystem bindings for tar-stream
 
 ## License
 
