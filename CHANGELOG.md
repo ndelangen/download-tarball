@@ -1,3 +1,15 @@
+# v3.0.9 (Fri May 26 2023)
+
+#### ⚠️ Pushed to `master`
+
+- Update readme.md ([@ndelangen](https://github.com/ndelangen))
+
+#### Authors: 1
+
+- Norbert de Langen ([@ndelangen](https://github.com/ndelangen))
+
+---
+
 # v3.0.8 (Fri May 26 2023)
 
 #### ⚠️ Pushed to `master`
